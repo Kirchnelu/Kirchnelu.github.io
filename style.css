@@ -38,7 +38,7 @@ body {
     border-radius: 5px;
     padding: 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     font-size: larger;
 }
 .text-container {
@@ -55,8 +55,8 @@ body {
 .page {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
     font-weight: 600;
 }
 .link {
