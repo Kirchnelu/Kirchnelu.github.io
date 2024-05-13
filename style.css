@@ -1,8 +1,8 @@
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(255, 255, 255);
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: max(7%, 35px);
+    padding-right: max(7%, 35px);
 }
 .all{
     display: flex;
@@ -55,8 +55,8 @@ body {
 .page {
     color: rgb(0, 0, 0);
     text-decoration: none;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: max(5%, 12px);
+    margin-right: max(5%, 12px);
     font-weight: 600;
 }
 .link {
